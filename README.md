@@ -8,3 +8,4 @@
   Что не будет сделано: Более 2х уровней, хорошую рисовку персонажей и пейзажа
 5. Desctop Game 
    C++, SFML, IDE Visual Studio или Visual Studio Code
+![](GH/menu.png)
