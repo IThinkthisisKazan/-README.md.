@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\STUDY\Project_OPD\project\the_game\the_game\main.cpp(25,14): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+D:\STUDY\Project_OPD\project\the_game\the_game\main.cpp(40,24): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\STUDY\Project_OPD\project\the_game\the_game\main.cpp(41,24): warning C4305: +=: усечение из "double" в "float"
+D:\STUDY\Project_OPD\project\the_game\the_game\main.cpp(48,24): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\STUDY\Project_OPD\project\the_game\the_game\main.cpp(49,23): warning C4305: +=: усечение из "double" в "float"
+D:\STUDY\Project_OPD\project\the_game\the_game\main.cpp(55,28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\STUDY\Project_OPD\project\the_game\the_game\main.cpp(58,27): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  the_game.vcxproj -> D:\STUDY\Project_OPD\project\the_game\Debug\the_game.exe
